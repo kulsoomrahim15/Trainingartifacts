@@ -1,0 +1,14 @@
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\bin\Debug\netcoreapp3.1\Snowflakes.exe
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\bin\Debug\netcoreapp3.1\Snowflakes.deps.json
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\bin\Debug\netcoreapp3.1\Snowflakes.runtimeconfig.json
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\bin\Debug\netcoreapp3.1\Snowflakes.runtimeconfig.dev.json
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\bin\Debug\netcoreapp3.1\Snowflakes.dll
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\bin\Debug\netcoreapp3.1\Snowflakes.pdb
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\obj\Debug\netcoreapp3.1\Snowflakes.csproj.AssemblyReference.cache
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\obj\Debug\netcoreapp3.1\Snowflakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\obj\Debug\netcoreapp3.1\Snowflakes.AssemblyInfoInputs.cache
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\obj\Debug\netcoreapp3.1\Snowflakes.AssemblyInfo.cs
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\obj\Debug\netcoreapp3.1\Snowflakes.csproj.CoreCompileInputs.cache
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\obj\Debug\netcoreapp3.1\Snowflakes.dll
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\obj\Debug\netcoreapp3.1\Snowflakes.pdb
+C:\Users\kulsoom.rahim\source\repos\Snowflakes\Snowflakes\obj\Debug\netcoreapp3.1\Snowflakes.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Snowflakes/1.0.0": {
+        "runtime": {
+          "Snowflakes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snowflakes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

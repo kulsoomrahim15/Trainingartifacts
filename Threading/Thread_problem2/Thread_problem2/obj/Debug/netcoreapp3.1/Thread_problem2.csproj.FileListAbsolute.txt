@@ -1,0 +1,14 @@
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\bin\Debug\netcoreapp3.1\Thread_problem2.exe
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\bin\Debug\netcoreapp3.1\Thread_problem2.deps.json
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\bin\Debug\netcoreapp3.1\Thread_problem2.runtimeconfig.json
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\bin\Debug\netcoreapp3.1\Thread_problem2.runtimeconfig.dev.json
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\bin\Debug\netcoreapp3.1\Thread_problem2.dll
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\bin\Debug\netcoreapp3.1\Thread_problem2.pdb
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\obj\Debug\netcoreapp3.1\Thread_problem2.csproj.AssemblyReference.cache
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\obj\Debug\netcoreapp3.1\Thread_problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\obj\Debug\netcoreapp3.1\Thread_problem2.AssemblyInfoInputs.cache
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\obj\Debug\netcoreapp3.1\Thread_problem2.AssemblyInfo.cs
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\obj\Debug\netcoreapp3.1\Thread_problem2.csproj.CoreCompileInputs.cache
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\obj\Debug\netcoreapp3.1\Thread_problem2.dll
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\obj\Debug\netcoreapp3.1\Thread_problem2.pdb
+C:\Users\kulsoom.rahim\source\repos\Thread_problem2\Thread_problem2\obj\Debug\netcoreapp3.1\Thread_problem2.genruntimeconfig.cache

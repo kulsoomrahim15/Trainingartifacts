@@ -1,0 +1,14 @@
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\bin\Debug\netcoreapp3.1\ProblemSet1-Egypt.exe
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\bin\Debug\netcoreapp3.1\ProblemSet1-Egypt.deps.json
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\bin\Debug\netcoreapp3.1\ProblemSet1-Egypt.runtimeconfig.json
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\bin\Debug\netcoreapp3.1\ProblemSet1-Egypt.runtimeconfig.dev.json
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\bin\Debug\netcoreapp3.1\ProblemSet1-Egypt.dll
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\bin\Debug\netcoreapp3.1\ProblemSet1-Egypt.pdb
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\obj\Debug\netcoreapp3.1\ProblemSet1-Egypt.csproj.AssemblyReference.cache
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\obj\Debug\netcoreapp3.1\ProblemSet1-Egypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\obj\Debug\netcoreapp3.1\ProblemSet1-Egypt.AssemblyInfoInputs.cache
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\obj\Debug\netcoreapp3.1\ProblemSet1-Egypt.AssemblyInfo.cs
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\obj\Debug\netcoreapp3.1\ProblemSet1-Egypt.csproj.CoreCompileInputs.cache
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\obj\Debug\netcoreapp3.1\ProblemSet1-Egypt.dll
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\obj\Debug\netcoreapp3.1\ProblemSet1-Egypt.pdb
+C:\Users\kulsoom.rahim\source\repos\ProblemSet1-Egypt\ProblemSet1-Egypt\obj\Debug\netcoreapp3.1\ProblemSet1-Egypt.genruntimeconfig.cache

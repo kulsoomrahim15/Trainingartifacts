@@ -1,0 +1,14 @@
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\bin\Debug\netcoreapp3.1\imagesize.exe
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\bin\Debug\netcoreapp3.1\imagesize.deps.json
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\bin\Debug\netcoreapp3.1\imagesize.runtimeconfig.json
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\bin\Debug\netcoreapp3.1\imagesize.runtimeconfig.dev.json
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\bin\Debug\netcoreapp3.1\imagesize.dll
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\bin\Debug\netcoreapp3.1\imagesize.pdb
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\obj\Debug\netcoreapp3.1\imagesize.csproj.AssemblyReference.cache
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\obj\Debug\netcoreapp3.1\imagesize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\obj\Debug\netcoreapp3.1\imagesize.AssemblyInfoInputs.cache
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\obj\Debug\netcoreapp3.1\imagesize.AssemblyInfo.cs
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\obj\Debug\netcoreapp3.1\imagesize.csproj.CoreCompileInputs.cache
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\obj\Debug\netcoreapp3.1\imagesize.dll
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\obj\Debug\netcoreapp3.1\imagesize.pdb
+C:\Users\kulsoom.rahim\source\repos\imagesize\imagesize\obj\Debug\netcoreapp3.1\imagesize.genruntimeconfig.cache

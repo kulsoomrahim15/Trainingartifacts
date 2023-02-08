@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProblemSet1-Egypt/1.0.0": {
+        "runtime": {
+          "ProblemSet1-Egypt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProblemSet1-Egypt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\bin\Debug\netcoreapp3.1\number_prob2.exe
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\bin\Debug\netcoreapp3.1\number_prob2.deps.json
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\bin\Debug\netcoreapp3.1\number_prob2.runtimeconfig.json
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\bin\Debug\netcoreapp3.1\number_prob2.runtimeconfig.dev.json
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\bin\Debug\netcoreapp3.1\number_prob2.dll
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\bin\Debug\netcoreapp3.1\number_prob2.pdb
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\obj\Debug\netcoreapp3.1\number_prob2.csproj.AssemblyReference.cache
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\obj\Debug\netcoreapp3.1\number_prob2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\obj\Debug\netcoreapp3.1\number_prob2.AssemblyInfoInputs.cache
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\obj\Debug\netcoreapp3.1\number_prob2.AssemblyInfo.cs
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\obj\Debug\netcoreapp3.1\number_prob2.csproj.CoreCompileInputs.cache
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\obj\Debug\netcoreapp3.1\number_prob2.dll
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\obj\Debug\netcoreapp3.1\number_prob2.pdb
+C:\Users\kulsoom.rahim\source\repos\number_prob2\number_prob2\obj\Debug\netcoreapp3.1\number_prob2.genruntimeconfig.cache
