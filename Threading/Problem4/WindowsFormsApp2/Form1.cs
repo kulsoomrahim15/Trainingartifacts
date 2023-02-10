@@ -61,12 +61,14 @@ namespace WindowsFormsApp2
             for (int i = 0; i < threadCount; i++)
             {
                 int randomNumber = generateRandomDelegate.EndInvoke(asyncResultArray[i]);
-             
-                //textBox2.Text(randomNumber.ToString());
-                textBox2.AppendText(randomNumber.ToString());
-                textBox2.Clear();
 
-               // lstRandomNumbers.Items.Add(randomNumber);
+                //textBox2.Text(randomNumber.ToString());
+                //textBox2.AppendText(randomNumber.ToString());
+                //textBox2.Clear();
+
+                textBox2.Text = randomNumber.ToString();
+
+                // lstRandomNumbers.Items.Add(randomNumber);
             }
         }
 
